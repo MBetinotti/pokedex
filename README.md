@@ -1,2 +1,4 @@
 # pokedex
-utilizacion de React y Material UI, consumiendo data de pokeapi.co
+Proyecto realizado como challenge para una entrevista.
+Consumir data de pokeapi.co
+Tecnologias: React, Material UI.
